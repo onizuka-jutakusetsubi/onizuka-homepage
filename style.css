@@ -127,7 +127,7 @@ section {
             rgba(5, 29, 49, 0.55) 48%,
             rgba(5, 29, 49, 0.20) 100%
         ),
-        url("images/hero.jpg") center / cover no-repeat;
+        url("hero.jpg") center / cover no-repeat;
 }
 
 .hero-overlay {
@@ -1121,7 +1121,7 @@ section {
                 rgba(5, 29, 49, 0.94),
                 rgba(5, 29, 49, 0.72)
             ),
-           url("images/hero.jpg")
+           url("hero.jpg")
             center / cover no-repeat;
     }
 
